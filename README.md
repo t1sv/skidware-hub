@@ -13,6 +13,7 @@ A quick script hub I made, had multiple scripts that are related to scripts such
 
 - Is this safe? -
   Yes it is safe, and the only reason the code is obfuscated it to protect the code from being stolen, it's really easy to create anyway.
+  If you don't trust the script and need further proof, add me and I will show the code, I do not gain nothing if I were to add anything malicious.
 
 - How do I use it? -
   Copy the script, and paste it into your executor, the script works on any executor as well.
@@ -21,9 +22,8 @@ A quick script hub I made, had multiple scripts that are related to scripts such
   It works on any game, but on games where the parts have to be unanchored such as:
   . Work at a Pizza Place
   . Sword Fighting Tycoon
-  . Natural Disasters
+  . Natural Disasters [Not working]
   . And many more!
 
 
-  - That's really it, I was bored and just decided to do this, and the script is keyless so enjoy. -
-  - 
+  - That's really it, I was bored and just decided to do this, and the script is keyless so enjoy.
