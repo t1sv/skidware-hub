@@ -1,3 +1,11 @@
--- t1sv
--- Feel free to share this script around, or just gatekeep.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/t1sv/skidware-hub/refs/heads/main/loader/swh.lua",true))()
+local s=game:GetService("UserInputService")
+local t=s.TouchEnabled and not s.KeyboardEnabled
+if t then
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/t1sv/skidware-hub/refs/heads/main/loader/mload",true))()
+else
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/t1sv/skidware-hub/refs/heads/main/loader/swh.lua",true))()
+end
+
+--// This loads the specified loader for each device
+--// Feel free to spread this script around
+--// Having problems? Join our server!
